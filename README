@@ -1,0 +1,27 @@
+Name: F-Themes
+
+Summary: Desktop GTK themes, at the moment targeting XFCE, 
+but also in part supporting Gnome/LXDE/Mate and other GTK desktops. 
+Originally based on Greybird theme.
+
+URL: https://github.com/cofi89/F-Themes
+Upstream URL: http://shimmerproject.org/projects/greybird/
+
+Copyright 2009–2012 Simon Steinbeiß and Satyajit Sahoo
+Copyright 2013-2014 Filip Danilović <filip@openmailbox.org>
+
+Greybird and all F-Themes are dual-licensed as GPLv2 or later 
+and CC-BY-SA 3.0 or later.
+
+The F-Themes desktop suite includes:
+– GTK2 theme
+– GTK3 theme
+– Xfwm4 theme
+– xfce-notifyd theme
+– OpenBox theme
+In various color and Light/Grey/Dark variants ( Yet to be completed ). 
+
+Planed:
+– Compact versions ( including Xfwm4 theme )
+– Metacity support
+– Improvements for Gnome & Cinnamon

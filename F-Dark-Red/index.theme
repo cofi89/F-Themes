@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=F-Dark-Red
+Comment=F-Dark-Red GTK Theme ( based on Greybird )
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=F-Dark-Red
+MetacityTheme=F-Dark-Red
+IconTheme=Faenza-Wolfe-Darkest
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close

@@ -1,0 +1,9 @@
+pavucontrol.scale.trough {
+    margin: 5px 0;
+    border-color: @theme_base_color;
+    border-radius: 3px;
+    background-image: linear-gradient(to bottom,
+                                      shade(@theme_bg_color, 0.95),
+                                      shade(@theme_bg_color, 1.05)
+                                      );
+}

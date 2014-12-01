@@ -1,5 +1,5 @@
 #Original theme by Manjaro artwork team
-#Modified by Filip Danilovic <filip@openmailbox.org>
+#Modified for F-Themes, by Filip Danilovic <filip@opmbx.org>
 
 
 button_offset=4
@@ -13,10 +13,10 @@ title_shadow_inactive=true
 
 #button_layout=O|HMC
 
-active_text_color=#333333
-inactive_text_color=#666666
-active_text_shadow_color=#dfdfdf
-inactive_text_shadow_color=#dfdfdf
+active_text_color=#D9D9D9
+inactive_text_color=#D9D9D9
+active_text_shadow_color=#616161
+inactive_text_shadow_color=#616161
 
 placement_ratio=20
 shadow_delta_height=0
@@ -29,3 +29,4 @@ move_opacity=100
 popup_opacity=100
 show_frame_shadow=true
 show_popup_shadow=true
+#show_app_icon=true

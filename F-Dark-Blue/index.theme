@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=TriOS-Dark-Blue
+Comment=TriOS-Dark-Blue GTK ( based on Greybird )
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=TriOS-Dark-Blue
+MetacityTheme=TriOS-Dark-Blue
+IconTheme=Faenza-Wolfe-Darkest
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
